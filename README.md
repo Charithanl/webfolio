@@ -1,5 +1,3 @@
-# Build a Modern Portfolio Website with React & TailwindCSS
-
 <div align="center">
   <br />
   <img src="screenshot-porfolio.png" alt="Portfolio Website Banner">
